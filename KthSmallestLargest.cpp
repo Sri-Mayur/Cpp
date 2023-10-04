@@ -1,3 +1,16 @@
+
+
+//Find the "Kth" max and min element of an array 
+//Set-14
+
+
+/* Submitted by: Mayur Srivastav
+   University Roll no: 2200290130109
+   Branch: Information Technology
+   Section: B
+*/
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
